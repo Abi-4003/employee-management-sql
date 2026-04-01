@@ -32,7 +32,8 @@ This project demonstrates an Employee Management Database built using Oracle SQL
 - Employees above average salary
 
 ## 📸 Output Screenshots
-(Add screenshots here)
+<img width="1920" height="514" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/5ad419eb-b4f8-4dff-80e5-0c8dbc2acfee" />
+
 
 ## 🚀 How to Run
 1. Open Oracle SQL Developer
