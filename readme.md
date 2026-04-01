@@ -47,4 +47,4 @@ This project demonstrates an Employee Management Database built using Oracle SQL
 3. Run queries.sql
 
 ## 👨‍💻 Author
-Abi
+Abi A
