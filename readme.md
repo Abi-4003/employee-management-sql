@@ -1,7 +1,7 @@
 # Employee Management System (SQL Project)
 
 ## 📌 Description
-This project demonstrates a basic Employee Management Database built using Oracle SQL.
+This project demonstrates an Employee Management Database built using Oracle SQL. It manages employee and department data using relational database concepts.
 
 ## 🛠 Technologies Used
 - Oracle SQL
@@ -14,9 +14,25 @@ This project demonstrates a basic Employee Management Database built using Oracl
 ## 🔑 Features
 - Created relational database using primary and foreign keys
 - Performed joins to fetch employee and department details
-- Used subqueries to find highest and second highest salary
+- Used subqueries for salary analysis
 - Applied aggregate functions (COUNT, AVG)
-- Created views for easy data access
+- Created views for simplified data access
+
+## 🧠 Concepts Covered
+- Joins
+- Subqueries
+- Aggregate Functions
+- Views
+- Constraints
+
+## 📊 Sample Queries
+- Employees with department names
+- Highest salary employee
+- Second highest salary
+- Employees above average salary
+
+## 📸 Output Screenshots
+(Add screenshots here)
 
 ## 🚀 How to Run
 1. Open Oracle SQL Developer
@@ -24,4 +40,4 @@ This project demonstrates a basic Employee Management Database built using Oracl
 3. Run queries.sql
 
 ## 👨‍💻 Author
-Abi A
+Abi
